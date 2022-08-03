@@ -1,1 +1,1 @@
-# trex-colored
+# Trex-colored
